@@ -2,15 +2,19 @@ h1{
   background-color: rgb(238, 238, 238);
 }
 
-p{
+.toDo{
   background-color: rgb(238, 238, 238);
 }
 
-li{
+.header{
   background-color: rgb(238, 238, 238); 
 }
 
-h6{
+.favFoods{
+  background-color: rgb(238, 238, 238);
+}
+
+#button{
   background-color: rgb(238, 238, 238);
 }
 
